@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Aesop\'s Fables</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bellingthe_cat">BellingtheCat</string>
+    <string name="title_activity_androcles">Androcles</string>
+    <string name="title_activity_avaricious">Avaricious</string>
+    <string name="title_activity_the_ant">TheAnt</string>
+    <string name="title_activity_the_lion">TheLion</string>
+    <string name="title_activity_the_horse">TheHorse</string>
+    <string name="title_activity_the_labourer">TheLabourer</string>
+    <string name="title_activity_aesops_fables">AesopsFables</string>
+    <string name="title_activity_thedog">Thedog</string>
+    <string name="title_activity_the_old_hound">TheOldHound</string>
+    <string name="fable_1">androcles
+    As he came near, the Lion put out his paw, which was all swollen and bleeding,\n\n
+        and Androcles found that a huge thorn had got into it, and was causing all the pain.\n\n
+        He pulled out the thorn and bound up the paw of the Lion, who was soon able to rise and lick the hand of Androcles like a dog.\n\n
+        Then the Lion took Androcles to his cave, and every day used to bring him meat from which to live.\n\n
+
+
+But shortly afterwards both Androcles and the Lion were captured, and the slave was sentenced to be thrown to the Lion,\n\n after the latter had been kept without food for several days. The Emperor and all his Court came to see the spectacle, and Androcles\n\n
+        was led out into the middle of the arena. Soon the Lion was let loose from his den, and rushed bounding and roaring towards his victim.
+
+    </string>
+    <string name="fable_2">
+        Long ago, the mice had a general council to consider what measures they could take to outwit their common enemy,\n\n the Cat.
+
+Some said this, and some said that; but at last a young mouse got up and said he had a proposal to make,\n\n which he thought would meet the case.
+
+"You will all agree," said he,\n\n "that our chief danger consists in the sly and treacherous manner in which the enemy approaches us.\n\n Now, if we could receive some signal of her approach, we could easily escape from her. I venture, therefore, to propose that a small bell be procured, and attached by a ribbon round the neck of the Cat. By this means we should always know when she was about, and could easily retire while she was in the neighbourhood."
+
+This proposal met with general applause, until an old mouse got up and said:\n\n
+
+"That is all very well, but who is to bell the Cat?"
+    </string>
+</resources>
